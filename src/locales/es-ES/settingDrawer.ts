@@ -1,0 +1,33 @@
+export default {
+  "app.setting.pagestyle": "Configuración del estilo de página",
+  "app.setting.pagestyle.dark": "Estilo oscuro",
+  "app.setting.pagestyle.light": "Estilo claro",
+  "app.setting.content-width": "Ancho del contenido",
+  "app.setting.content-width.fixed": "Fijo",
+  "app.setting.content-width.fluid": "Fluido",
+  "app.setting.themecolor": "Color del tema",
+  "app.setting.themecolor.dust": "Rojo polvo",
+  "app.setting.themecolor.volcano": "Volcán",
+  "app.setting.themecolor.sunset": "Naranja atardecer",
+  "app.setting.themecolor.cyan": "Cian",
+  "app.setting.themecolor.green": "Verde polar",
+  "app.setting.themecolor.daybreak": "Azul amanecer (predeterminado)",
+  "app.setting.themecolor.geekblue": "Azul geek",
+  "app.setting.themecolor.purple": "Púrpura dorado",
+  "app.setting.navigationmode": "Modo de navegación",
+  "app.setting.sidemenu": "Diseño de menú lateral",
+  "app.setting.topmenu": "Diseño de menú superior",
+  "app.setting.fixedheader": "Cabecera fija",
+  "app.setting.fixedsidebar": "Barra lateral fija",
+  "app.setting.fixedsidebar.hint": "Funciona en el diseño de menú lateral",
+  "app.setting.hideheader": "Ocultar cabecera al desplazar",
+  "app.setting.hideheader.hint":
+    "Funciona cuando la cabecera oculta está activada",
+  "app.setting.othersettings": "Otros ajustes",
+  "app.setting.weakmode": "Modo para daltónicos",
+  "app.setting.copy": "Copiar configuración",
+  "app.setting.copyinfo":
+    "Copiado con éxito; por favor, reemplaza defaultSettings en src/models/setting.js",
+  "app.setting.production.hint":
+    "El panel de configuración solo se muestra en el entorno de desarrollo, por favor modifícalo manualmente",
+};

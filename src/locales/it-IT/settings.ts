@@ -1,0 +1,65 @@
+export default {
+  "app.settings.menuMap.basic": "Impostazioni di base",
+  "app.settings.menuMap.security": "Impostazioni di sicurezza",
+  "app.settings.menuMap.binding": "Collegamento account",
+  "app.settings.menuMap.notification": "Notifica nuovi messaggi",
+  "app.settings.basic.avatar": "Avatar",
+  "app.settings.basic.change-avatar": "Cambia avatar",
+  "app.settings.basic.email": "Email",
+  "app.settings.basic.email-message": "Inserisci la tua email!",
+  "app.settings.basic.nickname": "Nickname",
+  "app.settings.basic.nickname-message": "Inserisci il tuo nickname!",
+  "app.settings.basic.profile": "Profilo personale",
+  "app.settings.basic.profile-message": "Inserisci il tuo profilo personale!",
+  "app.settings.basic.profile-placeholder": "Breve introduzione su di te",
+  "app.settings.basic.country": "Paese/Regione",
+  "app.settings.basic.country-message": "Inserisci il tuo paese!",
+  "app.settings.basic.geographic": "Provincia o città",
+  "app.settings.basic.geographic-message":
+    "Inserisci le tue informazioni geografiche!",
+  "app.settings.basic.address": "Indirizzo",
+  "app.settings.basic.address-message": "Inserisci il tuo indirizzo!",
+  "app.settings.basic.phone": "Numero di telefono",
+  "app.settings.basic.phone-message": "Inserisci il tuo numero di telefono!",
+  "app.settings.basic.update": "Aggiorna informazioni",
+  "app.settings.security.strong": "Forte",
+  "app.settings.security.medium": "Media",
+  "app.settings.security.weak": "Debole",
+  "app.settings.security.password": "Password dell'account",
+  "app.settings.security.password-description":
+    "Livello di sicurezza della password attuale",
+  "app.settings.security.phone": "Telefono di sicurezza",
+  "app.settings.security.phone-description": "Telefono collegato",
+  "app.settings.security.question": "Domanda di sicurezza",
+  "app.settings.security.question-description":
+    "La domanda di sicurezza non è impostata; una politica di sicurezza efficace può proteggere il tuo account",
+  "app.settings.security.email": "Email di recupero",
+  "app.settings.security.email-description": "Email collegata",
+  "app.settings.security.mfa": "Dispositivo MFA",
+  "app.settings.security.mfa-description":
+    "Dispositivo MFA non collegato; dopo il collegamento, è possibile eseguire una doppia conferma",
+  "app.settings.security.modify": "Modifica",
+  "app.settings.security.set": "Imposta",
+  "app.settings.security.bind": "Collega",
+  "app.settings.binding.taobao": "Collega Taobao",
+  "app.settings.binding.taobao-description":
+    "Account Taobao attualmente non collegato",
+  "app.settings.binding.alipay": "Collega Alipay",
+  "app.settings.binding.alipay-description":
+    "Account Alipay attualmente non collegato",
+  "app.settings.binding.dingding": "Collega DingTalk",
+  "app.settings.binding.dingding-description":
+    "Account DingTalk attualmente non collegato",
+  "app.settings.binding.bind": "Collega",
+  "app.settings.notification.password": "Password dell'account",
+  "app.settings.notification.password-description":
+    "I messaggi degli altri utenti verranno notificati tramite messaggistica interna",
+  "app.settings.notification.messages": "Messaggi di sistema",
+  "app.settings.notification.messages-description":
+    "I messaggi di sistema verranno notificati tramite messaggistica interna",
+  "app.settings.notification.todo": "Notifiche attività",
+  "app.settings.notification.todo-description":
+    "L'elenco delle attività verrà notificato tramite messaggistica interna",
+  "app.settings.open": "Aperto",
+  "app.settings.close": "Chiuso",
+};

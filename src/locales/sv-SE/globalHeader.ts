@@ -1,0 +1,17 @@
+export default {
+  "component.globalHeader.search": "Sök",
+  "component.globalHeader.search.example1": "Sökexempel 1",
+  "component.globalHeader.search.example2": "Sökexempel 2",
+  "component.globalHeader.search.example3": "Sökexempel 3",
+  "component.globalHeader.help": "Hjälp",
+  "component.globalHeader.notification": "Aviseringar",
+  "component.globalHeader.notification.empty": "Du har sett alla aviseringar.",
+  "component.globalHeader.message": "Meddelanden",
+  "component.globalHeader.message.empty": "Du har läst alla meddelanden.",
+  "component.globalHeader.event": "Händelser",
+  "component.globalHeader.event.empty": "Du har sett alla händelser.",
+  "component.noticeIcon.clear": "Rensa",
+  "component.noticeIcon.cleared": "Rensad",
+  "component.noticeIcon.empty": "Inga aviseringar",
+  "component.noticeIcon.view-more": "Visa mer",
+};

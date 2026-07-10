@@ -1,0 +1,33 @@
+export default {
+  "app.setting.pagestyle": "Instellingen paginastijl",
+  "app.setting.pagestyle.dark": "Donkere stijl",
+  "app.setting.pagestyle.light": "Lichte stijl",
+  "app.setting.content-width": "Inhoudsbreedte",
+  "app.setting.content-width.fixed": "Vast",
+  "app.setting.content-width.fluid": "Vloeiend",
+  "app.setting.themecolor": "Themakleur",
+  "app.setting.themecolor.dust": "Stofrood",
+  "app.setting.themecolor.volcano": "Vulkaan",
+  "app.setting.themecolor.sunset": "Zonsondergang oranje",
+  "app.setting.themecolor.cyan": "Cyaan",
+  "app.setting.themecolor.green": "Poolgroen",
+  "app.setting.themecolor.daybreak": "Dageraad blauw (standaard)",
+  "app.setting.themecolor.geekblue": "Geek-blauw",
+  "app.setting.themecolor.purple": "Goudpaars",
+  "app.setting.navigationmode": "Navigatiemodus",
+  "app.setting.sidemenu": "Zijmenu-indeling",
+  "app.setting.topmenu": "Bovenmenu-indeling",
+  "app.setting.fixedheader": "Vaste koptekst",
+  "app.setting.fixedsidebar": "Vaste zijbalk",
+  "app.setting.fixedsidebar.hint": "Werkt bij zijmenu-indeling",
+  "app.setting.hideheader": "Koptekst verbergen tijdens scrollen",
+  "app.setting.hideheader.hint":
+    "Werkt wanneer 'Koptekst verbergen' is ingeschakeld",
+  "app.setting.othersettings": "Overige instellingen",
+  "app.setting.weakmode": "Kleurblindvriendelijke modus",
+  "app.setting.copy": "Instellingen kopiëren",
+  "app.setting.copyinfo":
+    "Kopiëren geslaagd, vervang defaultSettings in src/models/setting.js",
+  "app.setting.production.hint":
+    "Het instellingenpaneel is alleen zichtbaar in de ontwikkelomgeving, pas dit handmatig aan",
+};

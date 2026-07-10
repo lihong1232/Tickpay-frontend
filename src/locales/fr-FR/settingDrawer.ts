@@ -1,0 +1,33 @@
+export default {
+  "app.setting.pagestyle": "Paramètres du style de page",
+  "app.setting.pagestyle.dark": "Style sombre",
+  "app.setting.pagestyle.light": "Style clair",
+  "app.setting.content-width": "Largeur du contenu",
+  "app.setting.content-width.fixed": "Fixe",
+  "app.setting.content-width.fluid": "Fluide",
+  "app.setting.themecolor": "Couleur du thème",
+  "app.setting.themecolor.dust": "Rouge Poussière",
+  "app.setting.themecolor.volcano": "Volcan",
+  "app.setting.themecolor.sunset": "Orange Crépuscule",
+  "app.setting.themecolor.cyan": "Cyan",
+  "app.setting.themecolor.green": "Vert Polaire",
+  "app.setting.themecolor.daybreak": "Bleu Aurore (par défaut)",
+  "app.setting.themecolor.geekblue": "Bleu Geek",
+  "app.setting.themecolor.purple": "Pourpre Doré",
+  "app.setting.navigationmode": "Mode de navigation",
+  "app.setting.sidemenu": "Menu latéral",
+  "app.setting.topmenu": "Menu supérieur",
+  "app.setting.fixedheader": "En-tête fixe",
+  "app.setting.fixedsidebar": "Barre latérale fixe",
+  "app.setting.fixedsidebar.hint": "Fonctionne avec le menu latéral",
+  "app.setting.hideheader": "Masquer l'en-tête au défilement",
+  "app.setting.hideheader.hint":
+    "Fonctionne quand le masquage d'en-tête est activé",
+  "app.setting.othersettings": "Autres paramètres",
+  "app.setting.weakmode": "Mode daltonisme",
+  "app.setting.copy": "Copier les paramètres",
+  "app.setting.copyinfo":
+    "Copie réussie, veuillez remplacer defaultSettings dans src/models/setting.js",
+  "app.setting.production.hint":
+    "Le panneau de configuration ne s'affiche qu'en environnement de développement, veuillez modifier manuellement",
+};

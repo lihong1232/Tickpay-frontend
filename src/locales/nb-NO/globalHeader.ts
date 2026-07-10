@@ -1,0 +1,17 @@
+export default {
+  "component.globalHeader.search": "Søk",
+  "component.globalHeader.search.example1": "Søkeeksempel 1",
+  "component.globalHeader.search.example2": "Søkeeksempel 2",
+  "component.globalHeader.search.example3": "Søkeeksempel 3",
+  "component.globalHeader.help": "Hjelp",
+  "component.globalHeader.notification": "Varslinger",
+  "component.globalHeader.notification.empty": "Du har sett alle varslinger.",
+  "component.globalHeader.message": "Meldinger",
+  "component.globalHeader.message.empty": "Du har lest alle meldinger.",
+  "component.globalHeader.event": "Hendelser",
+  "component.globalHeader.event.empty": "Du har sett alle hendelser.",
+  "component.noticeIcon.clear": "Tøm",
+  "component.noticeIcon.cleared": "Tømt",
+  "component.noticeIcon.empty": "Ingen varslinger",
+  "component.noticeIcon.view-more": "Vis mer",
+};

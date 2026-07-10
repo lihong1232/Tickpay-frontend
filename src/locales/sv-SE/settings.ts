@@ -1,0 +1,65 @@
+export default {
+  "app.settings.menuMap.basic": "Grundinställningar",
+  "app.settings.menuMap.security": "Säkerhetsinställningar",
+  "app.settings.menuMap.binding": "Kontokopplingar",
+  "app.settings.menuMap.notification": "Aviseringar för nya meddelanden",
+  "app.settings.basic.avatar": "Profilbild",
+  "app.settings.basic.change-avatar": "Byt profilbild",
+  "app.settings.basic.email": "E-post",
+  "app.settings.basic.email-message": "Vänligen ange din e-postadress!",
+  "app.settings.basic.nickname": "Smeknamn",
+  "app.settings.basic.nickname-message": "Vänligen ange ditt smeknamn!",
+  "app.settings.basic.profile": "Personlig profil",
+  "app.settings.basic.profile-message":
+    "Vänligen fyll i din profilbeskrivning!",
+  "app.settings.basic.profile-placeholder": "Kort presentation av dig själv",
+  "app.settings.basic.country": "Land/Region",
+  "app.settings.basic.country-message": "Vänligen ange ditt land!",
+  "app.settings.basic.geographic": "Län eller stad",
+  "app.settings.basic.geographic-message":
+    "Vänligen ange din geografiska information!",
+  "app.settings.basic.address": "Gatuadress",
+  "app.settings.basic.address-message": "Vänligen ange din adress!",
+  "app.settings.basic.phone": "Telefonnummer",
+  "app.settings.basic.phone-message": "Vänligen ange ditt telefonnummer!",
+  "app.settings.basic.update": "Uppdatera information",
+  "app.settings.security.strong": "Stark",
+  "app.settings.security.medium": "Medium",
+  "app.settings.security.weak": "Svag",
+  "app.settings.security.password": "Kontolösenord",
+  "app.settings.security.password-description": "Nuvarande lösenordsstyrka",
+  "app.settings.security.phone": "Säkerhetstelefon",
+  "app.settings.security.phone-description": "Kopplad telefon",
+  "app.settings.security.question": "Säkerhetsfråga",
+  "app.settings.security.question-description":
+    "Ingen säkerhetsfråga är angiven. En säkerhetsfråga kan effektivt skydda ditt konto",
+  "app.settings.security.email": "Reserv-e-post",
+  "app.settings.security.email-description": "Kopplad e-post",
+  "app.settings.security.mfa": "MFA-enhet",
+  "app.settings.security.mfa-description":
+    "Ingen kopplad MFA-enhet. Efter koppling kan tvåstegsverifiering användas",
+  "app.settings.security.modify": "Ändra",
+  "app.settings.security.set": "Ställ in",
+  "app.settings.security.bind": "Koppla",
+  "app.settings.binding.taobao": "Koppla Taobao",
+  "app.settings.binding.taobao-description":
+    "Inget kopplat Taobao-konto för närvarande",
+  "app.settings.binding.alipay": "Koppla Alipay",
+  "app.settings.binding.alipay-description":
+    "Inget kopplat Alipay-konto för närvarande",
+  "app.settings.binding.dingding": "Koppla DingTalk",
+  "app.settings.binding.dingding-description":
+    "Inget kopplat DingTalk-konto för närvarande",
+  "app.settings.binding.bind": "Koppla",
+  "app.settings.notification.password": "Kontolösenord",
+  "app.settings.notification.password-description":
+    "Meddelanden från andra användare kommer att aviseras via internmeddelanden",
+  "app.settings.notification.messages": "Systemmeddelanden",
+  "app.settings.notification.messages-description":
+    "Systemmeddelanden kommer att aviseras via internmeddelanden",
+  "app.settings.notification.todo": "Att-göra aviseringar",
+  "app.settings.notification.todo-description":
+    "Att-göra-listan kommer att aviseras via internmeddelanden",
+  "app.settings.open": "Öppna",
+  "app.settings.close": "Stäng",
+};
