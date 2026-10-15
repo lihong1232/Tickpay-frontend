@@ -236,4 +236,6 @@ Internationalization:
 
 - [Internationalizing your app](https://shopify.dev/docs/apps/best-practices/internationalization/getting-started)
 
-## to run this project, run this comand:node scripts/dev.mjs --use-localhost --config local
+## to run this project, run this comand: $env:NODE_EXTRA_CA_CERTS = "$HOME\Volvo_CA.pem"
+
+node scripts/dev.mjs --use-localhost --config local
