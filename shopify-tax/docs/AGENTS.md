@@ -9,10 +9,10 @@ Before making changes, understand the existing project structure, dependencies, 
 ## 2. Source of Truth
 
 - Product requirements: `docs/product/`
+- Current development task: `docs/tasks/overview.md`
 - Technical architecture: `docs/architecture/`
-- UI designs and interaction specifications: `docs/design/`
 - Coding and testing standards: `docs/standards/`
-- Current development task: `docs/tasks/current-task.md`
+- UI designs and interaction specifications: `docs/design/`
 
 Read the relevant documents before implementing a feature.
 

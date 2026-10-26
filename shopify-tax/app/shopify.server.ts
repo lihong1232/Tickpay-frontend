@@ -1,3 +1,4 @@
+// Shopify 认证和 API 集成。
 import "@shopify/shopify-app-react-router/adapters/node";
 import {
   ApiVersion,
