@@ -1,0 +1,19 @@
+<div class="tax-display-note" {{ block.shopify_attributes }}>
+  {% if block.settings.note != blank %}
+    <p class="tax-display-note__text">{{ block.settings.note | escape }}</p>
+  {% endif %}
+</div>
+
+{% schema %}
+{
+  "name": "t:blocks.tax_note.name",
+  "target": "content",
+  "settings": [
+    {
+      "type": "textarea",
+      "id": "note",
+      "label": "t:blocks.tax_note.settings.note.label"
+    }
+  ]
+}
+{% endschema %}

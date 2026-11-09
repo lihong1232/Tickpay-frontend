@@ -1,0 +1,12 @@
+{
+  "blocks": {
+    "tax_note": {
+      "name": "Tax note",
+      "settings": {
+        "note": {
+          "label": "Tax information"
+        }
+      }
+    }
+  }
+}
